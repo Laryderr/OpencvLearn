@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/noetic/include/**",
+        "/home/haong/roslearn/catkin_ws/src/chassis_pkg/include/**",
+        "/home/haong/roslearn/catkin_ws/src/cv_pkg/include/**",
+        "/home/haong/roslearn/catkin_ws/src/laptop_camera_pkg/include/**",
+        "/home/haong/roslearn/catkin_ws/src/opencvlearn/include/**",
+        "/home/haong/roslearn/catkin_ws/src/sensor_pkg/include/**",
+        "/home/haong/roslearn/catkin_ws/src/turtle_keyboardctrl_pkg/include/**",
+        "/home/haong/roslearn/catkin_ws/src/wpr_simulation/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
